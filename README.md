@@ -1,3 +1,4 @@
+https://github.com/Sambhavvn/System-Optimizer-for-PC/blob/main/LISCENSE
 SystemOptimizer
 A modern Windows system optimization and monitoring application built with Python and CustomTkinter. Features real-time hardware monitoring, intelligent system cleaning, game mode optimization, CPU benchmarking, and comprehensive system reporting.
 
