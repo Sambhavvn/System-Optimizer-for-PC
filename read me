@@ -1,0 +1,16 @@
+System Requirements
+OS: Windows 10/11 (required - uses Win32 APIs)
+Python: 3.8+ (you have 3.14.3)
+Admin Privileges: Required for full functionality (UAC elevation built-in)
+
+
+# 1. Create virtual environment
+python -m venv venv
+
+# 2. Install core dependencies (guaranteed to work)
+venv\Scripts\pip install customtkinter Pillow psutil WMI loguru pywin32
+
+# 3. Optional: Install data science packages (requires Visual Studio Build Tools)
+venv\Scripts\pip install numpy pandas scikit-learn scipy
+
+venv\Scripts\pip install -r requirements.txt

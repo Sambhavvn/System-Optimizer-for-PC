@@ -1,0 +1,25 @@
+{
+  "last_selected": "Extreme Performance",
+  "options": {
+    "Extreme Performance": {
+      "free_mem": true,
+      "launch": ""
+    },
+    "Balanced": {
+      "free_mem": false,
+      "launch": ""
+    },
+    "Silent": {
+      "free_mem": false,
+      "launch": ""
+    },
+    "Super Battery": {
+      "free_mem": true,
+      "launch": ""
+    },
+    "User": {
+      "free_mem": false,
+      "launch": ""
+    }
+  }
+}
